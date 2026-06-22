@@ -1,7 +1,6 @@
 ## 概要
-個人開発。基本的にWebしか扱えない悲しい学生。
-
-HPの運営もしてます。
+個人開発を中心に活動している学生です。
+主にWebアプリケーションやツール開発を行っています。
 
 ## 🔧 技術スタック
 
@@ -22,30 +21,30 @@ HPの運営もしてます。
 ![Github Pages Badge](https://img.shields.io/badge/-Github%20Pages-181717.svg?logo=github&style=for-the-badge)
 ![Github Actions Badge](https://img.shields.io/badge/-Github%20Actions-181717.svg?logo=github&style=for-the-badge)
 
+![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-f38020?style=for-the-badge&logo=cloudflare&logoColor=ffffff)
+
+### 資格
+- FE（基本情報技術者試験）
+
 ## 📦 主な関心分野
 - Webアプリケーション開発
 - ツール制作
+- Cloudflareスタック
+- PWA
+- GitHub Actions
+- UI/UX
 - <s>Chrome拡張機能開発</s>←諸事情により休止中
 
 ## 📌 主なプロジェクト
 
-### [mito1-website](https://github.com/talus-daise/mito1-website)
-
-HP運営。機能改善に努めて。現在最も草を生やしているリポジトリ。
-
-### [update-timetable](https://github.com/talus-daise/update-timetable)
-
-時間割を取得するサーバー。他のことにも応用できるかも。
-
-### [aquestalk-web](https://github.com/talus-daise/aquestalk-web)
-
-AquesTalk1(旧)をWebで使いたくてAIに生成してもらった。
-
-現在の安定版は[v1.0.0](https://github.com/talus-daise/aquestalk-web/releases/tag/v1.0.0)
-
 ### [study-circle](https://github.com/talus-daise/study-circle)
 
-学習記録＆共有の習慣化を目指して工事中。
+学習記録を投稿・共有できるWebサービス。
+継続的な学習習慣の形成を目的として開発中。
+
+## [Due.](https://github.com/talus-daise/Due.)
+
+自分好みのスケジュール管理アプリを作りたいと思い、作成。
 
 ## 📊 GitHub Stats
 |![](https://github-readme-stats-six-azure.vercel.app/api?username=talus-daise&show_icons=true&count_private=true&theme=transparent&hide_border=true)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talus-daise&theme=transparent)|
