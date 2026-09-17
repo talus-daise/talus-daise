@@ -1,6 +1,6 @@
 ## About Me
 
-学生個人開発者。
+水戸一高附属中学校で活動している学生個人開発者。
 Cloudflare Workersを活用したWebサービスや個人向けツール、学習支援サービスやゲームを開発している。
 
 ## 🔧 Tech Stack
@@ -45,17 +45,29 @@ Cloudflare Workersを活用したWebサービスや個人向けツール、学�
 
 ## 📌 主なプロジェクト
 
-### [idle-rogue-chronicle](https://github.com/talus-daise/idle-rogue-chronicle)
+### [new-study-tracker](https://github.com/talus-daise/new-study-tracker)
 
-いわるゆポチゲーと言われる種類のゲーム。現在は開発中。
+これまで作ってきたタスク管理アプリや勉強支援系アプリの機能を統合した。
 
-### [study-circle](https://github.com/talus-daise/study-circle)
+### [smart-miror](https://github.com/talus-daise/smart-miror)
 
-継続的な学習を支援するWebサービス。
+スマートミラー用のWebページクライアント。
+スペルミスは故意(ではない)。
 
-### [Due.](https://github.com/talus-daise/Due.)
+### [waribashi-online](https://github.com/talus-daise/waribashi-online)
 
-自分好みのスケジュール管理アプリを作りたいと思い、作成。
+指があれば遊べるゲーム割り箸をオンラインで。
+
+### [touhou-fusairoku](https://github.com/talus-daise/touhou-fusairoku)
+
+「東方符砕録　〜 Resonance Beyond the Era」
+東方二次創作(鋭意製作中)
+簡単に言うと"音ゲー x 弾幕ゲー"
+
+### [message-card](https://github.com/talus-daise/message-card)
+
+URLにパラメータをつけると自由にメッセージを表示できるページ。
+QRコードで読み込ませるとエモさが増すこと間違いあり。
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats-six-azure.vercel.app/api?username=talus-daise&show_icons=true&count_private=true&theme=transparent&hide_border=true)
@@ -78,7 +90,9 @@ Cloudflare Workersを活用したWebサービスや個人向けツール、学�
 ## 🔗 リンク
 - GitHub: https://github.com/talus-daise
 - Qiita: https://qiita.com/talus-daise (投稿無し)
-- X: https://x.com/talus_daise
+- Twitter: https://twitter.com/talus_daise
+
+TwitterはTwitterです。
 
 ---
 
